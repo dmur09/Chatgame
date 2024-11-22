@@ -1,6 +1,4 @@
-# chatgame
-A copy of the mtchat repo.  
-
+# Chatgame
 This repo contains programs to implement a multi-threaded TCP chat server and client. To play this game, the Host asks the connected users a true or false question. The first user to answer correctly is given a point. Repeat until there is a winner.
 
 * MtClient.java handles keyboard input from the user.
@@ -13,9 +11,8 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 ## Identifying Information
 
 * Name: Jason Kim, Diego Murillo, Zack Dell
-* Student ID: #2413661, #2403501, #2423498
 * Email: younkim@chapman.edu, dmurillo@chapman.edu, zdell@chapman.edu
-* Course: CPSC 353-01
+* Course: CPSC 353-01 - Data Communications and Computer Networks 
 * Assignment: PA04 - Chatgame
 
 ## Source Files
@@ -34,11 +31,11 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 
 ## References
 
-*
+* N/A
 
 ## Known Errors
 
-*
+* N/A
 
 ## Build Insructions
 
