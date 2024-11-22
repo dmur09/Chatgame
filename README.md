@@ -23,12 +23,6 @@ This repo contains programs to implement a multi-threaded TCP chat server and cl
 * MtServer.java
 * Client.java
 
-## Contributions
-
-* Diego: Forked the repo, formed branches, and added teammates for collaboration. Then implemented Client.java class. Helped implement switch case for submission 2. Also finished the required for submission 3.
-* Zack: Wrote the server side and client handler to handle username. Helped error handle a socket error found in submission 2 and implemented client handling.
-* Jason: Edited messages to communicate username between server and clients and removed errors. Coded a main part of the switch case statments for submission 2.
-
 ## References
 
 * N/A
